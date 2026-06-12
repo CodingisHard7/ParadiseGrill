@@ -1,0 +1,92 @@
+Menu,Section,Item,Price,Description
+Food,Signature Tacos,Mahi · Shrimp · Chicken · Steak,16,"All served with corn salsa, chipotle salsa, (3) white corn tortillas, pickled onion, avocado crema & cotija cheese"
+Food,Appetizers,Coconut Shrimp,16,"Wild caught coconut shrimp, lime wedge, lettuce, mango sweet chili sauce"
+Food,Appetizers,Coastal Calamari,15,"Flash fried, mango, cashews, green onion, sweet chili"
+Food,Appetizers,Tuna Wontons,16,"Ahi tuna, sriracha aioli, cucumber, scallion, sesame"
+Food,Appetizers,Loaded Nachos,15,"Tortilla chips, cheese sauce, black bean and corn salsa, jalapeño, blackened chicken"
+Food,Appetizers,Confit Wings,16,"8 jumbo wings, celery, blue cheese or ranch. Tossed in your choice: honey BBQ, buffalo, Caribbean jerk, garlic parmesan, sweet chili"
+Food,Appetizers,Buffalo Cauliflower,12,"Flash fried, buttermilk ranch"
+Food,Salads,Southwest Chop,14,"Romaine, avocado, black bean corn salsa, cilantro, tortilla strips, cilantro ranch"
+Food,Salads,Caesar Salad,13,"Romaine, parmesan, garlic crouton, zesty caesar dressing"
+Food,Salads,Signature House,14,"Mixed greens, blue cheese, cranberries, candied walnuts, red onion, balsamic vinaigrette"
+Food,Salads,Black N Blue Salad,22,"Sliced ribeye, mixed greens, spinach, blue cheese, red onion, candied walnuts, balsamic vinaigrette"
+Food,Salad Add-Ons,Add: Chicken,6,
+Food,Salad Add-Ons,Shrimp,8,
+Food,Salad Add-Ons,Mahi (grilled/blackened),8,
+Food,Salad Add-Ons,Steak,10,
+Food,Entrées,Ribeye Steak Frites,30,"Truffle fries, red pepper coulis, crispy onion straws"
+Food,Entrées,Fish & Chips,24,"Beer battered fish, handcut fries, coleslaw, lemon, key lime tartar sauce"
+Food,Entrées,Baked Penne,16,"House made tomato basil sauce, parmesan, EVOO, penne, garlic bread"
+Food,Entrées,BBQ Chicken,22,"Half chicken, honey BBQ sauce, handcut fries, coleslaw"
+Food,Handhelds,,,All served with house cut fries
+Food,Handhelds,Paradise Burger,18,"8oz prime, bib lettuce, tomato, red onion, special sauce, cheddar cheese · Beyond patty available"
+Food,Handhelds,Caesar Wrap,16,"Romaine, parmesan, grilled or blackened chicken, flour tortilla"
+Food,Handhelds,Turkey Club,16,"Lettuce, tomato, bacon, citrus aioli, sourdough"
+Food,Handhelds,Buffalo Chicken,17,"Panko crusted, blue cheese, lettuce, tomato, pretzel bun"
+Food,Handhelds,Mahi Mahi Sandwich,18,"Grilled or blackened — lettuce, tomato, key lime tartar, brioche bun"
+Food,Flatbreads,Italian Cheese,15,"House made marinara, mozzarella, parmesan"
+Food,Flatbreads,Margherita,16,"House made marinara, mozzarella, tomato, basil, extra virgin olive oil"
+Food,Flatbreads,Pepperoni,16,House made marinara, mozzarella & pepperoni
+Food,Flatbreads,Buffalo Ranch,16,"Fried chicken, buffalo sauce, blue cheese, ranch"
+Food,Sides,Truffle Fries,7,
+Food,Sides,Caesar Salad,5,
+Food,Sides,Side Salad,5,
+Food,Sides,Seasonal Vegetable,5,
+Food,Desserts,Key Lime Pie,9,"Whipped cream, berry compote, graham cracker crust"
+Food,Desserts,Bacon Brownie,10,"Maple syrup, candied walnuts, chocolate syrup, bacon, whipped cream, vanilla ice cream"
+Food,Desserts,Cheesecake,9,
+Food,Desserts,Bananas Foster,9,"Caramelized banana, vanilla ice cream, caramel sauce"
+Drinks,Signature Cocktails,Coconut Breeze,16,"Toasted coconut rum, fresh mint, lime, coconut cream simple syrup, club soda"
+Drinks,Signature Cocktails,Tropical Gin Sunrise,16,"Botanical gin, raspberry liqueur, lemon, pineapple juice"
+Drinks,Signature Cocktails,Hibiscus Paloma,16,"Reposado tequila, hibiscus syrup, grapefruit juice, lime, salt"
+Drinks,Signature Cocktails,Island Old Fashioned,16,"Bourbon, banana liqueur, brown sugar, black walnut bitters"
+Drinks,Signature Cocktails,Golden Hour,16,"White wine, peach & orange blossom vodka, passionfruit purée, lemon/lime juice, club soda"
+Drinks,Signature Cocktails,Buried Treasure,16,"Tequila, blackberry syrup, pomegranate juice, lime, ginger beer"
+Drinks,Frozen Escape,Paradise Colada,13,"Coconut rum, colada mix · dark rum floater +$3"
+Drinks,Frozen Escape,Rum Runner,13,Silver & dark rum
+Drinks,Frozen Escape,Frozen Sangria,13,"Red wine, peach liqueur"
+Drinks,Frozen Escape,Mudslide,13,"Vodka, Kahlúa"
+Drinks,Frozen Escape,Frozen Daiquiri,13,"Mango, strawberry, watermelon, passion fruit, or peach"
+Drinks,Frozen Escape,Frozen Lemonade,13,Citrus vodka
+Drinks,Frozen Escape,Margarita,13,"Mango, strawberry, watermelon, passion fruit, or peach"
+Drinks,Martinis,Wake Up In Paradise,15,"Vanilla vodka, fresh espresso, Kahlúa, Frangelico"
+Drinks,Martinis,Pink Flamingo,15,"Citrus vodka, triple sec, pomegranate juice, lime"
+Drinks,Martinis,Passion In Paradise,15,"Peach & orange blossom vodka, passionfruit purée, mango purée, lime"
+Drinks,Mocktails,Pink Palm Colada,10,"Colada mix, lemon lime soda, pineapple, grenadine"
+Drinks,Mocktails,Mango Nojito,10,"Mango purée, mint, lime, lemon-lime soda"
+Drinks,Wine,Chardonnay,12,
+Drinks,Wine,Pinot Grigio,12,
+Drinks,Wine,Sauvignon Blanc,12,
+Drinks,Wine,Rosé,12,
+Drinks,Wine,Prosecco,12,
+Drinks,Wine,Cabernet Sauvignon,12.5,
+Drinks,Wine,Red Blend,12.5,
+Drinks,Wine,Pinot Noir,12.5,
+Drinks,Wine,House Red,7,
+Drinks,Wine,House White,7,
+Drinks,Canned Beer,Blue Moon (16oz),8,
+Drinks,Canned Beer,Bud Light,6,
+Drinks,Canned Beer,Cigar City Jai Alai,7,
+Drinks,Canned Beer,Coors Light,6,
+Drinks,Canned Beer,Corona,7,
+Drinks,Canned Beer,Guinness,8.5,
+Drinks,Canned Beer,Hazy Little Things,7,
+Drinks,Canned Beer,Heineken,6.5,
+Drinks,Canned Beer,Heineken 0.0,6.5,
+Drinks,Canned Beer,Kona Big Wave,6,
+Drinks,Canned Beer,Michelob Ultra,6,
+Drinks,Canned Beer,Michelob Ultra Zero,6,
+Drinks,Canned Beer,Miller Lite,6,
+Drinks,Canned Beer,Sensory Overload (16oz),11,
+Drinks,Canned Beer,Stella Artois,6.5,
+Drinks,Canned Beer,,,Ask about our craft cans & craft drafts
+Drinks,Seltzers,High Noon Peach,7.5,
+Drinks,Seltzers,High Noon Pineapple,7.5,
+Drinks,Seltzers,High Noon Watermelon,7.5,
+Drinks,Seltzers,High Noon Mango,7.5,
+Cafe & Parlor,Café & Parlor,Ice Cream & Milkshakes,,"Scoops, sundaes & hand-spun shakes"
+Cafe & Parlor,Café & Parlor,Smoothies,,Fresh fruit blends
+Cafe & Parlor,Café & Parlor,Coffee Bar,,"Coffee, cappuccinos & lattes"
+Cafe & Parlor,Café & Parlor,Sandwiches,,Fresh-made favorites
+Cafe & Parlor,Café & Parlor,Salads,,Crisp & refreshing
+Cafe & Parlor,Café & Parlor,Baked Goods,,"Cakes, pies & sweet treats"
